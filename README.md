@@ -1,6 +1,6 @@
 # distance_check
 Python 3 script for measuring the distance with a Raspberry Pi and HC-SR04 Sensor. 
-It sends his data to a MQTT Broker and warns you by sending an E-Mail when the distance is lower then value X. All you have to do is download the distance.py and use it as single standalone script or with the systemd service file `distance.service` as systemd deamon.
+It sends his data to a MQTT Broker and warns you by sending an E-Mail when the distance is lower then value X. All you have to do is download the distance.py and use it as single standalone script or with the systemd service file `distance.service` as systemd daemon.
 
 # Prerequirements
 Installation of libraries and other stuff which is needed for the script:
