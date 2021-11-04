@@ -32,3 +32,8 @@ systemctl start distance.service
 systemctl enable distance.service
 ```
 That's it 
+
+# More Informations
+Sorry it's in German:
+* https://www.laub-home.de/wiki/Raspberry_Pi_als_Füllstandsmesser
+* https://www.laub-home.de/wiki/Raspberry_Pi_HC-SR04_Ultraschallsensor
