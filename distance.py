@@ -33,10 +33,10 @@ mqttconnection = False
 # MQTT connection facts...
 broker = "FQDN / IP ADDRESS"
 mqtt_port = 8883
-mqttclientid = "clientid-bsecbme680-homie"
-clientid = "clientid-bsecbme680"
-clientname = "Clientname BSEC BME680 Sensor"
-nodes="bme680"
+mqttclientid = "clientid-hcsr04-homie"
+clientid = "clientid-hcsr04"
+clientname = "Clientname HC-SR04 Sensor"
+nodes="hcsr04"
 mqtt_username = "mosquitto"
 mqtt_password = "password"
 insecure = True
